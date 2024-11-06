@@ -50,6 +50,7 @@ requirements:
   host:
     - cairo
     - epoxy
+    - expat
     - freetype
     - gdk-pixbuf
     - gettext  # [osx]
